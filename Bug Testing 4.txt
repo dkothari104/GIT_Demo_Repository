@@ -1,1 +1,2 @@
 This document has been created to test the integration between GIT Commit & SwiftKanban.
+test
