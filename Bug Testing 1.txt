@@ -2,4 +2,4 @@ This document has been created to test the integration between GIT Commit & Swif
 
 Updating the document to verify the changes in Current Queue in SwiftKanban on Committing in GIT.
 
-Update 1
+Update 2
